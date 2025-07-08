@@ -18,4 +18,8 @@ venv/
 *.db
 *.sqlite3
 
+cert.pem
+cert.key
+
+
 
